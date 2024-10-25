@@ -1,0 +1,98 @@
+{
+    "modules": [
+        {
+            "module": 1,
+            "words": [
+                {
+                    "word": "cat",
+                    "translation": "chat",
+                    "example": "The cat is sleeping.",
+                    "exampleTranslation": "Le chat dort."
+                }
+            ],
+            "quiz": [
+                {
+                    "question": "What is 'chat' in English?",
+                    "options": ["Cat", "Dog", "Apple", "House"],
+                    "answer": "Cat"
+                },
+                {
+                    "question": "Which word means 'chat'?",
+                    "options": ["Chat", "Chien", "Pomme", "Maison"],
+                    "answer": "Chat"
+                },
+                {
+                    "question": "How do you say 'The cat is sleeping' in French?",
+                    "options": [
+                        "Le chien aboie",
+                        "Le chat dort",
+                        "La pomme est rouge",
+                        "La maison est grande"
+                    ],
+                    "answer": "Le chat dort"
+                },
+                {
+                    "question": "Select the correct translation for 'cat'.",
+                    "options": ["Chien", "Chat", "Pomme", "Eau"],
+                    "answer": "Chat"
+                },
+                {
+                    "question": "What is the translation for 'cat'?",
+                    "options": ["Chat", "Maison", "Chien", "Livre"],
+                    "answer": "Chat"
+                }
+            ]
+        },
+        {
+            "module": 2,
+            "words": [
+                {
+                    "word": "dog",
+                    "translation": "chien",
+                    "example": "The dog barks.",
+                    "exampleTranslation": "Le chien aboie."
+                },
+                {
+                    "word": "apple",
+                    "translation": "pomme",
+                    "example": "I eat an apple.",
+                    "exampleTranslation": "Je mange une pomme."
+                }
+            ],
+            "quiz": [
+                {
+                    "question": "What is 'chien' in English?",
+                    "options": ["Cat", "Dog", "Apple", "House"],
+                    "answer": "Dog"
+                },
+                {
+                    "question": "Which word means 'apple'?",
+                    "options": ["Chat", "Chien", "Pomme", "Maison"],
+                    "answer": "Pomme"
+                },
+                {
+                    "question": "How do you say 'The dog barks' in French?",
+                    "options": [
+                        "Le chien aboie",
+                        "Le chat dort",
+                        "La pomme est rouge",
+                        "La maison est grande"
+                    ],
+                    "answer": "Le chien aboie"
+                },
+                {
+                    "question": "Select the correct translation for 'apple'.",
+                    "options": ["Pomme", "Chat", "Chien", "Eau"],
+                    "answer": "Pomme"
+                },
+                {
+                    "question": "What is the translation for 'dog'?",
+                    "options": ["Chat", "Maison", "Chien", "Livre"],
+                    "answer": "Chien"
+                }
+            ]
+        }
+        
+    ]
+}
+
